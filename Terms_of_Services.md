@@ -1,11 +1,11 @@
 **Last updated**  
-Oct. 01, 2020
+Nov. 01, 2020
 
 # Terms of Services
 
-This is an agreement between you and EGISVPN, Inc. for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
+This is an agreement between you and NETCO LTD for virtual private network communications services, related services and features. It is NOT a service for the commission of criminal acts. It is an anonymity and privacy service. You agree not to violate any laws of any jurisdiction you are originating from, or terminating into.
 
-Please carefully read all the terms and conditions of EGISVPN, Inc.. When you click to install EGISVPN, Inc. applications, you are agreeing with all the terms and conditions of the service. And if you don't agree,you can cancel the installation and you must destroy,return or delete all copies of EGISVPN, Inc. applications in your possession.
+Please carefully read all the terms and conditions of NETCO LTD. When you click to install NETCO LTD applications, you are agreeing with all the terms and conditions of the service. And if you don't agree,you can cancel the installation and you must destroy,return or delete all copies of NETCO LTD applications in your possession.
 
 You agree not to use the system for sending spam, port scanning, scanning for open proxies or open relays, sending opt-in email, unsolicited email or any type or version of email sent in large quantities even if the email is ultimately sent off of another server. You agree not to launch any pop-ups from our service. You agree not to attack in any way shape or form any other computer or network while on our service.
 
@@ -18,7 +18,7 @@ We do not put any cap on bandwidth or data usage per user however the use of ser
 
 <br>
 
-## EGISVPN, Inc. DMCA Policy
-EGISVPN, Inc. is a service provider of transitory digital network communications under the Digital Millennium Copyright Act ("DMCA") 17 U.S.C. p. 512(a). Accordingly, it is EGISVPN, Inc.'s policy to promptly terminate without notice the accounts of those determined by EGISVPN, Inc. to be repeat infringers, where a repeat infringer is an end user of the EGISVPN, Inc. Services who has been notified by EGISVPN, Inc. of infringing transmissions activities more than twice ("Repeat Infringer Policy"). Because of the ephemeral nature of transmissions imitated at the direction of persons using the EGISVPN, Inc. Service, it is generally not possible for EGISVPN, Inc. to take-down content from its system, but it will use all reasonable efforts to identify the offending persons in order to enforce its Repeat Infringer Policy.
+## NETCO LTD DMCA Policy
+NETCO LTD is a service provider of transitory digital network communications under the Digital Millennium Copyright Act ("DMCA") 17 U.S.C. p. 512(a). Accordingly, it is NETCO LTD's policy to promptly terminate without notice the accounts of those determined by NETCO LTD to be repeat infringers, where a repeat infringer is an end user of the NETCO LTD Services who has been notified by NETCO LTD of infringing transmissions activities more than twice ("Repeat Infringer Policy"). Because of the ephemeral nature of transmissions imitated at the direction of persons using the NETCO LTD Service, it is generally not possible for NETCO LTD to take-down content from its system, but it will use all reasonable efforts to identify the offending persons in order to enforce its Repeat Infringer Policy.
 
 Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
