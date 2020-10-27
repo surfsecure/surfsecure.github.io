@@ -76,7 +76,7 @@ If you are a resident of the European Union, please note that the following righ
 
 However, please note that these rights are not absolute, and may be subject to our own legitimate interests and regulatory requirements.
 
-<p class="p6"><span class="s5">To exercise such right, you may contact us at: <a href="mailto:beart4532@gmail.com"><span class="s6">beart4532@gmail.com</span></a></span></p>
+<p class="p6"><span class="s5">To exercise such right, you may contact us at: <a href="mailto:telawanysa@gmail.com"><span class="s6">telawanysa@gmail.com</span></a></span></p>
 
 <br>
 
